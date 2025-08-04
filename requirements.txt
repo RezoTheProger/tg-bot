@@ -1,0 +1,12 @@
+anyio==4.9.0
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+jsonpointer==2.1
+lxml==6.0.0
+python-telegram-bot==22.3
+setuptools==78.1.1
+sniffio==1.3.1
+wheel==0.45.1
+typing==3.7.4.3
+
