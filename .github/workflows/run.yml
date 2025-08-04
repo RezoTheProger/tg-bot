@@ -29,3 +29,7 @@ jobs:
       - name: Run bot
         run: python main.py
 
+concurrency:
+  group: python-bot
+  cancel-in-progress: true
+
